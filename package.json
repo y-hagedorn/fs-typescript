@@ -1,0 +1,24 @@
+{
+  "name": "fs-typescript",
+  "version": "1.0.0",
+  "description": "Repository for Part 9 (TypeScript) of the Full Stack open course",
+  "main": "index.js",
+  "scripts": {
+    "ts-node": "ts-node",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/y-hagedorn/fs-typescript.git"
+  },
+  "author": "Yannick Hagedorn",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/y-hagedorn/fs-typescript/issues"
+  },
+  "homepage": "https://github.com/y-hagedorn/fs-typescript#readme",
+  "devDependencies": {
+    "ts-node": "^10.9.2",
+    "typescript": "^5.7.2"
+  }
+}
